@@ -22,7 +22,7 @@
 > [Slides](slides/Lesson3Activity1.pdf)
 
 ### Sessão 2
-> [Slides](slides/Lesson5Activity1.pdf)
+> [Slides](slides/Lesson2Activity1.pdf)
 
 ### Sessão 1
 > [Slides](slides/Lesson1Activity1.pdf)
