@@ -4,7 +4,8 @@
 
 | Grupo | Tutorial | Visualização |
 | - | --- | ---- |
-| Grupo 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao10.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao10.ipynb?flush_cache=true) |
+| Grupo 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao10-group1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao10-group1.ipynb?flush_cache=true) |
+| Grupo 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao10-group3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao10-group3.ipynb?flush_cache=true) |
 
 
 ### Sessão 9
@@ -14,8 +15,8 @@
 
 | Grupo | Part | Tutorial | Visualização |
 | - | - | --- | ---- |
-| Grupo 3 | Parte 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part1.ipynb?flush_cache=true) |
-| Grupo 3 | Parte 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part2.ipynb?flush_cache=true) |
+| Grupo 3 | Parte 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part1-group3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part1-group3.ipynb?flush_cache=true) |
+| Grupo 3 | Parte 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part2-group3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part2-group3.ipynb?flush_cache=true) |
 
 ### Sessão 6
 > [Slides](slides/Lesson6Activity1.pdf)
