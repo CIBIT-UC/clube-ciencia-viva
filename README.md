@@ -1,13 +1,21 @@
 # Clube Ciência Viva - Escola Martim de Freitas
 
+### Sessão 10
+
+| Grupo |   | Tutorial | Visualização |
+| - | - | --- | ---- |
+| Grupo 3 | Parte 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao10.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao10.ipynb?flush_cache=true) |
+
+
 ### Sessão 9
 
 > [Slides](slides/Lesson9Activity1.pdf)
 
-|   | Tutorial | Visualização |
-| - | --- | ---- |
-| Parte 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao1-part1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao1-part1.ipynb?flush_cache=true) |
-| Parte 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao1-part2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao1-part2.ipynb?flush_cache=true) |
+
+| Grupo |   | Tutorial | Visualização |
+| - | - | --- | ---- |
+| Grupo 3 | Parte 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part1.ipynb?flush_cache=true) |
+| Grupo 3 | Parte 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part2.ipynb?flush_cache=true) |
 
 ### Sessão 6
 > [Slides](slides/Lesson6Activity1.pdf)
