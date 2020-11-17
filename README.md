@@ -2,6 +2,8 @@
 
 ### Sessão 10
 
+> [Poster link](https://https://docs.google.com/presentation/d/17o13XEmb3JSdDD30BJeJx52zXJbJgNQxySVT5HN3dgQ/edit?usp=sharing)
+
 | Grupo | Tutorial | Visualização |
 | - | --- | ---- |
 | Grupo 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao10-group1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao10-group1.ipynb?flush_cache=true) |
