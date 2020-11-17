@@ -2,7 +2,7 @@
 
 ### Sessão 10
 
-> [Poster link](https://https://docs.google.com/presentation/d/17o13XEmb3JSdDD30BJeJx52zXJbJgNQxySVT5HN3dgQ/edit?usp=sharing)
+> [Poster link](https://docs.google.com/presentation/d/17o13XEmb3JSdDD30BJeJx52zXJbJgNQxySVT5HN3dgQ/edit?usp=sharing)
 
 | Grupo | Tutorial | Visualização |
 | - | --- | ---- |
