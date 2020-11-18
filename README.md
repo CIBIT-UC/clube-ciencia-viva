@@ -6,6 +6,8 @@
 | Grupo 1 | [Influência do estado de espírito na cor da roupa](poster/Grupo1-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
 | Grupo 3 | [Efeito do tipo de filmes na condutância da pele](poster/Grupo3-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
 
+> [Questionário](form/Actividade%201_questionário_geral.pdf)
+
 ### Sessão 10
 
 | Grupo | Tutorial | Visualização |
