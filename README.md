@@ -1,6 +1,6 @@
 # Clube Ciência Viva - Escola Martim de Freitas
 
-### Sessão 10
+### Sessão 11
 | Grupo | Poster |
 | - | --- | 
 | Grupo 1 | [Influência do estado de espírito na cor da roupa](poster/Grupo1-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
