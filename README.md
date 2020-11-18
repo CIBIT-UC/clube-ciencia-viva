@@ -1,8 +1,12 @@
 # Clube Ciência Viva - Escola Martim de Freitas
 
 ### Sessão 10
+| Grupo | Poster |
+| - | --- | 
+| Grupo 1 | [Influência do estado de espírito na cor da roupa](poster/Grupo1-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
+| Grupo 3 | [Efeito do tipo de filmes na condutância da pele](poster/Grupo3-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
 
-> [Poster link](https://docs.google.com/presentation/d/17o13XEmb3JSdDD30BJeJx52zXJbJgNQxySVT5HN3dgQ/edit?usp=sharing)
+### Sessão 10
 
 | Grupo | Tutorial | Visualização |
 | - | --- | ---- |
@@ -15,7 +19,7 @@
 > [Slides](slides/Lesson9Activity1.pdf)
 
 
-| Grupo | Part | Tutorial | Visualização |
+| Grupo | Parte | Tutorial | Visualização |
 | - | - | --- | ---- |
 | Grupo 3 | Parte 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part1-group3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part1-group3.ipynb?flush_cache=true) |
 | Grupo 3 | Parte 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part2-group3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/tutorials/SAG-sessao9-part2-group3.ipynb?flush_cache=true) |
