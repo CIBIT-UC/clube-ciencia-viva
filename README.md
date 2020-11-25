@@ -1,6 +1,7 @@
 # Clube Ciência Viva - Escola Martim de Freitas
 
 > [Atividade 1](#atividade-1)
+
 > [Atividade 2](#atividade-2)
 
 ## Atividade 1
@@ -11,7 +12,7 @@
 | [Efeito do tipo de filmes na condutância da pele](activity1/poster/Grupo3-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
 
 > [Slides](activity1/slides/Lesson11Activity1.pdf)
->
+
 > [Questionário](activity1/form/Actividade%201_questionário_geral.pdf)
 
 ### Sessão 10
