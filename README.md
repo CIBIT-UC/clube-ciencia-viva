@@ -5,6 +5,20 @@
 > [Atividade 2](#atividade-2)
 
 ## Atividade 1
+
+| Sessão | Título |
+| Sessão 1 | Introdução |
+| Sessão 2 | Cérebro |
+| Sessão 3 | Técnicas: Comportamento |
+| Sessão 4 | Técnicas: Electroencefalografia |
+| Sessão 5 | Técnicas: Imagem Cerebral por Ressonância Magnética |
+| Sessão 6 | Técnicas: Condutância da Pele e Eye Tracker |
+| Sessão 7 | Projecto de Investigação: Introdução |
+| Sessão 8 | Projecto de Investigação: Questão científica e Hipóteses |
+| Sessão 9 | Dados de Investigação: Como obter dados em tempos de pandemia COVID-19? |
+| Sessão 10 | Análise de dados |
+| Sessão 11 | Partilha de Dados & Revisão pelos pares |
+
 ### Sessão 11
 | Poster |
 | --- | 
@@ -52,6 +66,15 @@
 > [Slides](activity1/slides/Lesson1Activity1.pdf)
 
 ## Atividade 2
+| Sessão | Título |
+| Sessão 1 | --- |
+| Sessão 2 | --- |
+| Sessão 3 | --- |
+| Sessão 4 | --- |
+| Sessão 5 | --- |
+| Sessão 6 | --- |
+| Sessão 7 | --- |
+| Sessão 8 | --- |
 
 ### Sessão 4
 > [Slides](activity2/slides/Lesson4Activity2.pdf)
