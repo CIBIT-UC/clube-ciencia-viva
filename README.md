@@ -51,3 +51,6 @@
 > [Slides](activity1/slides/Lesson1Activity1.pdf)
 
 ## Atividade 2
+
+### Sessão 4
+> [Slides](activity2/slides/Lesson4Activity2.pdf)
