@@ -14,8 +14,8 @@
 | [Sessão 4](#sessão-4) | Técnicas: Electroencefalografia |
 | [Sessão 5](#sessão-5) | Técnicas: Imagem Cerebral por Ressonância Magnética |
 | [Sessão 6](#sessão-6) | Técnicas: Condutância da Pele e Eye Tracker |
-| [Sessão 7](#sessão-7) | Projecto de Investigação: Introdução |
-| [Sessão 8](#sessão-8) | Projecto de Investigação: Questão científica e Hipóteses |
+| Sessão 7 | Projecto de Investigação: Introdução |
+| Sessão 8 | Projecto de Investigação: Questão científica e Hipóteses |
 | [Sessão 9](#sessão-9) | Dados de Investigação: Como obter dados em tempos de pandemia COVID-19? |
 | [Sessão 10](#sessão-10) | Análise de dados |
 | [Sessão 11](#sessão-11) | Partilha de Dados & Revisão pelos pares |
