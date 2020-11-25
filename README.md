@@ -7,6 +7,7 @@
 ## Atividade 1
 
 | Sessão | Título |
+| - | --- |
 | Sessão 1 | Introdução |
 | Sessão 2 | Cérebro |
 | Sessão 3 | Técnicas: Comportamento |
