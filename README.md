@@ -72,12 +72,12 @@
 ## Atividade 2
 | Sessão | Título |
 | - | --- |
-| Sessão 1 | --- |
-| Sessão 2 | --- |
-| Sessão 3 | --- |
-| Sessão 4 | --- |
-| Sessão 5 | --- |
-| Sessão 6 | --- |
+| Sessão 1 | Introdução - Cor e Contraste |
+| Sessão 2 |Como Medimos a Cor e a Luz? (Instrumentos e Técniacs) |
+| Sessão 3 |Como se avalia a visão da cores? |
+| Sessão 4 | Como medimos a côr no Cérebro? |
+| Sessão 5 | Vamos descobrir se alguém é daltónico! |
+| Sessão 6 | Ilusões Ópticas |
 | Sessão 7 | --- |
 | Sessão 8 | --- |
 
