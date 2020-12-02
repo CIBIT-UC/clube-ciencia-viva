@@ -83,3 +83,6 @@
 
 ### Sessão 4
 > [Slides](activity2/slides/Lesson4Activity2.pdf)
+
+### Sessão 6
+> [Slides](activity2/slides/Lesson6Activity2.pdf)
