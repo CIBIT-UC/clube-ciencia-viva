@@ -74,9 +74,9 @@
 | - | --- |
 | Sessão 1 | Introdução - Cor e Contraste |
 | Sessão 2 |Como Medimos a Cor e a Luz? (Instrumentos e Técnicas) |
-| Sessão 3 |Como se avalia a visão da cores? |
-| Sessão 4 | Como medimos a côr no Cérebro? |
-| Sessão 5 | Vamos descobrir se alguém é daltónico! |
+| Sessão 3 |Como se avalia a Visão da Cores? |
+| Sessão 4 | Como medimos a Côr no Cérebro? |
+| Sessão 5 | Vamos descobrir se alguém é Daltónico! |
 | Sessão 6 | Ilusões Ópticas |
 | Sessão 7 | --- |
 | Sessão 8 | --- |
