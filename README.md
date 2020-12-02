@@ -73,7 +73,7 @@
 | Sessão | Título |
 | - | --- |
 | Sessão 1 | Introdução - Cor e Contraste |
-| Sessão 2 |Como Medimos a Cor e a Luz? (Instrumentos e Técniacs) |
+| Sessão 2 |Como Medimos a Cor e a Luz? (Instrumentos e Técnicas) |
 | Sessão 3 |Como se avalia a visão da cores? |
 | Sessão 4 | Como medimos a côr no Cérebro? |
 | Sessão 5 | Vamos descobrir se alguém é daltónico! |
