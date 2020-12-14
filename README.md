@@ -1,6 +1,6 @@
 # Clube Ciência Viva - Escola Martim de Freitas
 
-Colaboradores: @ines-almeida @carolinatravassos @mfmachado @SantosSara
+Colaboradores:Inês Almeida, Carolina Travassos, Diana Rodrigues, Fátima Machado, Helena Jorge, Marta Pais, Sara Santos
 
 > [Atividade 1](#atividade-1)
 
