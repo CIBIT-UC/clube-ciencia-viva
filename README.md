@@ -1,5 +1,7 @@
 # Clube Ciência Viva - Escola Martim de Freitas
 
+Colaboradores: @ines-almeida @carolinatravassos @mfmachado @SantosSara
+
 > [Atividade 1](#atividade-1)
 
 > [Atividade 2](#atividade-2)
