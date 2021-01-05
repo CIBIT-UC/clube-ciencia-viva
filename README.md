@@ -11,7 +11,7 @@ Colaboradores:Inês Almeida, Carolina Travassos, Diana Rodrigues, Fátima Machad
 | - | - | --- |
 | VER E MEXER NO CÉREBRO POR <br> DENTRO E POR FORA | [Sessão 1](#sessão-1) <br> [Sessão 2](#sessão-2) | Introdução <br> Cérebro |
 | TÉCNICAS DE RECOLHA DE DADOS | [Sessão 3](#sessão-3) <br> [Sessão 4](#sessão-4) <br> [Sessão 5](#sessão-5) <br> [Sessão 6](#sessão-6)| Comportamento <br> Electroencefalografia <br> Imagem Cerebral por Ressonância Magnética <br> Condutância da Pele e Eye Tracker|
-|E SE EU FOSSE INVESTIGADOR? <br>O PROCESSO DE INVESTIGAÇÃO EM AÇÃO!| [Sessão 7](#sessão-7) <br> [Sessão 8](#sessão-8) <br> [Sessão 9](#sessão-9) <br> [Sessão 10](#sessão-10) <br> [Sessão 11](#sessão-11) | Introdução ao Projecto de Investigação: definição da questão de investigação e constituição de grupos de trabalho <br>  Projecto de Investigação: Planificação e desenho experimental <br> Como obter dados em tempos de pandemia COVID-19? <br> Análise de dados <br> Partilha de Dados & Revisão pelos pares|
+|E SE EU FOSSE INVESTIGADOR? <br>O PROCESSO DE INVESTIGAÇÃO EM AÇÃO!| [Sessão 7](#sessão-7) <br> [Sessão 8](#sessão-8) <br> [Sessão 9](#sessão-9) <br> [Sessão 10](#sessão-10) <br> [Sessão 11](#sessão-11) | Introdução ao Projecto de Investigação: Questão e grupos de trabalho <br>  Projecto de Investigação: Planificação e desenho experimental <br> Como obter dados em tempos de pandemia COVID-19? <br> Análise de dados <br> Partilha de Dados & Revisão pelos pares|
 
 ### Sessão 11
 | Poster |
