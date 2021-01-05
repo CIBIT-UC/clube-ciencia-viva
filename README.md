@@ -5,7 +5,6 @@ Colaboradores:Inês Almeida, Carolina Travassos, Diana Rodrigues, Fátima Machad
 > [Atividade 1](#atividade-1)
 
 > [Atividade 2](#atividade-2)
-
 ## Atividade 1
 
 | Sessão | Título |
@@ -17,7 +16,7 @@ Colaboradores:Inês Almeida, Carolina Travassos, Diana Rodrigues, Fátima Machad
 | [Sessão 5](#sessão-5) | Técnicas: Imagem Cerebral por Ressonância Magnética |
 | [Sessão 6](#sessão-6) | Técnicas: Condutância da Pele e Eye Tracker |
 | [Sessão 7](#sessão-7)  | Projecto de Investigação: Introdução |
-| Sessão 8 | Projecto de Investigação: Questão Científica e Hipóteses |
+| [Sessão 8](#sessão-8) | Projecto de Investigação: Questão Científica e Hipóteses |
 | [Sessão 9](#sessão-9) | Dados de Investigação: Como obter dados em tempos de pandemia COVID-19? |
 | [Sessão 10](#sessão-10) | Análise de dados |
 | [Sessão 11](#sessão-11) | Partilha de Dados & Revisão pelos pares |
@@ -49,6 +48,9 @@ Colaboradores:Inês Almeida, Carolina Travassos, Diana Rodrigues, Fátima Machad
 | - | - | --- | ---- |
 | Efeito do tipo de filmes na condutância da pele | Parte 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/activity1/tutorials/SAG-sessao9-part1-group3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/activity1/tutorials/SAG-sessao9-part1-group3.ipynb?flush_cache=true) |
 | Efeito do tipo de filmes na condutância da pele | Parte 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/activity1/tutorials/SAG-sessao9-part2-group3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIBIT-ICNAS/clube-ciencia-viva/blob/main/activity1/tutorials/SAG-sessao9-part2-group3.ipynb?flush_cache=true) |
+
+### Sessão 8
+> [Slides](activity1/slides/Lesson8Activity1.pdf)
 
 ### Sessão 7
 > [Slides](activity1/slides/Lesson7Activity1.pdf)
