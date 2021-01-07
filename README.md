@@ -65,7 +65,7 @@ Colaboradores:Inês Almeida, Carolina Travassos, Diana Rodrigues, Fátima Machad
 ### Sessão 1
 > [Slides](activity1/slides/Lesson1Activity1.pdf)
 
-## Atividade 2
+## Atividade 2 - Os Mistérios da Luz e da Cor
 | Sessão | Título |
 | - | --- |
 | Sessão 1 | Introdução - Cor e Contraste |
@@ -73,9 +73,9 @@ Colaboradores:Inês Almeida, Carolina Travassos, Diana Rodrigues, Fátima Machad
 | Sessão 3 |Como se avalia a Visão da Cores? |
 | Sessão 4| Como medimos a Côr no Cérebro? |
 | Sessão 5 | Vamos descobrir se alguém é Daltónico! |
-| Sessão 6 | Ilusões Ópticas |
-| Sessão 7 | --- |
-| Sessão 8 | --- |
+| Sessão 6 | Ilusões Ópticas - Retoma |
+| Sessão 7 | Ilusões Ópticas - Preparção de Poster |
+| Sessão 8 | Ilusões  - Apresentação dos Posters e encerramento|
 
 ### Sessão 4
 > [Slides](activity2/slides/Lesson4Activity2.pdf)
