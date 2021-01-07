@@ -2,9 +2,9 @@
 
 Colaboradores:Inês Almeida, Carolina Travassos, Diana Rodrigues, Fátima Machado, Helena Jorge, Hugo Alexandre, Marta Pais, Marta Teixeira, Ricardo Martins, Sara Santos
 
-> [Atividade 1](#atividade-1)
+> [Atividade 1: O Método Científico](#atividade-1)
 
-> [Atividade 2](#atividade-2)
+> [Atividade 2: Os Mistérios da Luz e da Cor](#atividade-2)
 ## Atividade 1
 
 | Temas Gerais| Sessão | 
@@ -65,20 +65,28 @@ Colaboradores:Inês Almeida, Carolina Travassos, Diana Rodrigues, Fátima Machad
 ### Sessão 1
 > [Slides](activity1/slides/Lesson1Activity1.pdf)
 
-## Atividade 2 - Os Mistérios da Luz e da Cor
+## Atividade 2
 | Sessão | Título |
 | - | --- |
 | Sessão 1 | Introdução - Cor e Contraste |
 | Sessão 2 |Como Medimos a Cor e a Luz? (Instrumentos e Técnicas) |
 | Sessão 3 |Como se avalia a Visão da Cores? |
-| Sessão 4| Como medimos a Côr no Cérebro? |
+| [Sessão 4](#sessão-4) | Como medimos a Côr no Cérebro? |
 | Sessão 5 | Vamos descobrir se alguém é Daltónico! |
-| Sessão 6 | Ilusões Ópticas - Retoma |
+| [Sessão 6](#sessão-6) | Ilusões Ópticas - Retoma |
 | Sessão 7 | Ilusões Ópticas - Preparção de Poster |
-| Sessão 8 | Ilusões  - Apresentação dos Posters e encerramento|
+| [Sessão 8](#sessão-8) | Ilusões  - Apresentação dos Posters e encerramento|
 
-### Sessão 4
-> [Slides](activity2/slides/Lesson4Activity2.pdf)
+### Sessão 8
+
+| Poster |
+| --- | 
+| [Ilusões Ópticas - A Pós Imagem](activity2/poster/Grupo1-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
+| [A Cor e o Cérebro](activity2/poster/Grupo2-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
+
 
 ### Sessão 6
 > [Slides](activity2/slides/Lesson6Activity2.pdf)
+
+### Sessão 4
+> [Slides](activity2/slides/Lesson4Activity2.pdf)
