@@ -71,11 +71,11 @@ Colaboradores:Inês Almeida, Carolina Travassos, Diana Rodrigues, Fátima Machad
 | Sessão 1 | Introdução - Cor e Contraste |
 | Sessão 2 |Como Medimos a Cor e a Luz? (Instrumentos e Técnicas) |
 | Sessão 3 |Como se avalia a Visão da Cores? |
-| [Sessão 4](#sessão-4) | Como medimos a Côr no Cérebro? |
+| Sessão 4 | Como medimos a Côr no Cérebro? |
 | Sessão 5 | Vamos descobrir se alguém é Daltónico! |
-| [Sessão 6](#sessão-6) | Ilusões Ópticas - Retoma |
+| Sessão 6 | Ilusões Ópticas - Retoma |
 | Sessão 7 | Ilusões Ópticas - Preparção de Poster |
-| [Sessão 8](#sessão-8) | Ilusões  - Apresentação dos Posters e encerramento|
+| Sessão 8 | Ilusões  - Apresentação dos Posters e encerramento|
 
 ### Sessão 8
 
