@@ -1,6 +1,6 @@
 # Clube Ciência Viva - Escola Martim de Freitas
 
-Colaboradores:Inês Almeida, Carolina Travassos, Diana Rodrigues, Fátima Machado, Helena Jorge, Hugo Alexandre, Marta Pais, Marta Teixeira, Ricardo Martins, Sara Santos
+Colaboradores: [Inês Almeida](https://orcid.org/0000-0003-0230-3075), [Carolina Travassos](https://orcid.org/0000-0002-8555-9844), [Diana Rodrigues](https://orcid.org/0000-0002-6755-2841), [Fátima Machado](https://orcid.org/0000-0001-8878-1750), [Helena Jorge](https://orcid.org/0000-0003-1745-6891), [Hugo Alexandre](https://orcid.org/0000-0001-9504-6543), [Marta Pais](https://orcid.org/0000-0001-8593-0810), [Marta Teixeira](https://orcid.org/0000-0003-3647-6767), [Ricardo Martins](http://orcid.org/0000-0001-7184-185X), [Sara Santos](https://orcid.org/0000-0002-7594-4765)
 
 > [Atividade 1: O Método Científico](#atividade-1)
 
