@@ -91,4 +91,4 @@ Colaboradores: [Inês Almeida](https://orcid.org/0000-0003-0230-3075), [Carolina
 ### Sessão 4
 > [Slides](activity2/slides/Lesson4Activity2.pdf)
 
-![logos](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/logos.png)
+![logos](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/logos.png)
