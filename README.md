@@ -132,7 +132,7 @@ O Centro de Imagem Biomédica e Investigação Translacional (CIBIT), unidade de
 ![parceiros](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/partners.png)
 
 ## Coordenadores do Clube
-CIBIT: [Inês Almeida](https://orcid.org/0000-0003-0230-3075)(CIBIT) e [Miguel Castelo-Branco](https://orcid.org/0000-0003-4364-6373)
+CIBIT: [Inês Almeida](https://orcid.org/0000-0003-0230-3075) e [Miguel Castelo-Branco](https://orcid.org/0000-0003-4364-6373)
 
 Escola Martim de Freitas: Alberto Barreira, Henrique Cruz e [Cilínia Godinho](https://www.linkedin.com/in/cil%C3%ADnia-godinho-b355b454/?originalSubdomain=pt)
 
