@@ -1,11 +1,11 @@
-[![capa](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/capa.png)](https://vimeo.com/503285857)
+[![capa](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/capa.png)](https://vimeo.com/503285857)
 
 ## Colaboradores
 [Inês Almeida](https://orcid.org/0000-0003-0230-3075), [Carolina Travassos](https://orcid.org/0000-0002-8555-9844), [Diana Rodrigues](https://orcid.org/0000-0002-6755-2841), [Fátima Machado](https://orcid.org/0000-0001-8878-1750), [Helena Jorge](https://orcid.org/0000-0003-1745-6891), [Hugo Alexandre](https://orcid.org/0000-0001-9504-6543), [Marta Pais](https://orcid.org/0000-0001-8593-0810), [Marta Teixeira](https://orcid.org/0000-0003-3647-6767), [Ricardo Martins](http://orcid.org/0000-0001-7184-185X), [Sara Santos](https://orcid.org/0000-0002-7594-4765), [Miguel Castelo-Branco](https://orcid.org/0000-0003-4364-6373)
 
 ---
 
-![capa A1](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/a1.jpg)
+![capa A1](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/activity01.jpg)
 
 ## Atividade 1: O Método Científico
 
@@ -34,7 +34,7 @@
 
 ---
 
-![capa A2](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/a2.jpg)
+![capa A2](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/activity02.jpg)
 
 ## Atividade 2: Os Mistérios da Luz e da Cor
 | Sessão | Título |
@@ -50,7 +50,7 @@
 
 ---
 
-![capa A2](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/mat_apoio.jpg)
+![capa A2](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/materials.jpg)
 
 ## Material de Apoio - Atividade 1
 
@@ -129,4 +129,4 @@
 
 ---
 ## Apoios Institucionais
-![logos](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/logos.png)
+![logos](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/logos.png)
