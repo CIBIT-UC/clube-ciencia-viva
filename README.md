@@ -4,7 +4,7 @@
 [Inês Almeida](https://orcid.org/0000-0003-0230-3075), [Carolina Travassos](https://orcid.org/0000-0002-8555-9844), [Diana Rodrigues](https://orcid.org/0000-0002-6755-2841), [Fátima Machado](https://orcid.org/0000-0001-8878-1750), [Helena Jorge](https://orcid.org/0000-0003-1745-6891), [Hugo Alexandre](https://orcid.org/0000-0001-9504-6543), [Marta Pais](https://orcid.org/0000-0001-8593-0810), [Marta Teixeira](https://orcid.org/0000-0003-3647-6767), [Ricardo Martins](http://orcid.org/0000-0001-7184-185X), [Sara Santos](https://orcid.org/0000-0002-7594-4765), [Miguel Castelo-Branco](https://orcid.org/0000-0003-4364-6373)
 
 
-![capa](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/a1.jpg)
+![capa A1](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/a1.jpg)
 
 ## Atividade 1: O Método Científico
 
@@ -32,6 +32,7 @@
 | [Sessão 11](#sessão-11) | Partilha de Dados & Revisão pelos pares |
 
 
+![capa A1](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/a2.jpg)
 
 ## Atividade 2: Os Mistérios da Luz e da Cor
 | Sessão | Título |
