@@ -5,19 +5,30 @@
 
 ## Atividade 1: O Método Científico
 
+
+#### Ver e mexer no cérebro por dentro e por fora
 | Sessão | Título |
 | - | --- |
 | [Sessão 1](#sessão-1) | Introdução |
 | [Sessão 2](#sessão-2)| Cérebro |
+
+#### Técnicas de recolha de dados
+| Sessão | Título |
+| - | --- |
 | [Sessão 3](#sessão-3)| Comportamento |
 | [Sessão 4](#sessão-4) | Electroencefalografia |
 | [Sessão 5](#sessão-5) | Imagem Cerebral por Ressonância Magnética |
 | [Sessão 6](#sessão-6) | Condutância da Pele e Eye Tracker |
+
+#### E se eu fosse investigador ? O processo de investigação em acção !
+| Sessão | Título |
+| - | --- |
 | [Sessão 7](#sessão-7) | Introdução ao Projecto de Investigação: Questão e grupos de trabalho |
 | [Sessão 8](#sessão-8) | Projecto de Investigação: Planificação e desenho experimental|
 | [Sessão 9](#sessão-9) | Como obter dados em tempos de pandemia COVID-19? |
 | [Sessão 10](#sessão-10) | Análise de dados |
 | [Sessão 11](#sessão-11) | Partilha de Dados & Revisão pelos pares |
+
 
 
 ## Atividade 2: Os Mistérios da Luz e da Cor
