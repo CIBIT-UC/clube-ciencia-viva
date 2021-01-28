@@ -136,7 +136,7 @@ Alberto Barreira, Henrique Cruz e [Cilínia Godinho](https://www.linkedin.com/in
 ## Colaboradores CIBIT
 [Carolina Travassos](https://orcid.org/0000-0002-8555-9844), [Diana Rodrigues](https://orcid.org/0000-0002-6755-2841), [Fátima Machado](https://orcid.org/0000-0001-8878-1750), [Helena Jorge](https://orcid.org/0000-0003-1745-6891), [Hugo Alexandre](https://orcid.org/0000-0001-9504-6543), [Marta Pais](https://orcid.org/0000-0001-8593-0810), [Marta Teixeira](https://orcid.org/0000-0003-3647-6767), [Ricardo Martins](http://orcid.org/0000-0001-7184-185X), [Sara Santos](https://orcid.org/0000-0002-7594-4765)
 
-## Support CIBIT
+## Apoio Técnico CIBIT
 [Catarina Duarte](https://orcid.org/0000-0002-5620-2424), [Hélio Gonçalves](https://orcid.org/0000-0001-6471-7818), [João Castelhano](https://orcid.org/0000-0002-8996-1515), [Sónia Afonso](https://www.researchgate.net/profile/Sonia_Afonso2), Tânia Silva
 
 ## Apoios Institucionais
