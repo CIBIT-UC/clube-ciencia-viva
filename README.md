@@ -125,8 +125,10 @@
 | [A Cor e o Cérebro](activity2/poster/Grupo2-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
 
 ---
+# CIBIT
+![parceiros](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/partners.png)
 
-![parceiros](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/partners.jpg)
+O Centro de Imagem Biomédica e Investigação Translacional (CIBIT), unidade de I&D da Universidade de Coimbra sediada no Instituto de Ciências Nucleares Aplicadas à saúde (ICNAS), foi parceiro do Agrupamento de Escolas Martim de Freitas, tendo contribuído significativamente para um Clube de Ciência Viva na Escola no ano letivo de 2019/20 (com extensão a 2020/21, por motivos de pandemia), iniciativa da Direção-Geral da Educação e financiado pelo POCH. Os investigadores do CIBIT desenvolveram duas atividades: “O Método Científico” e “Os Mistérios da Luz e da Imagem” num total de 20 sessões. 
 
 ## Coordenadores CIBIT:
 [Inês Almeida](https://orcid.org/0000-0003-0230-3075) e [Miguel Castelo-Branco](https://orcid.org/0000-0003-4364-6373)
