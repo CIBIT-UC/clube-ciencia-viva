@@ -126,6 +126,8 @@
 
 ---
 
+![parceiros](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/partners.jpg)
+
 ## Coordenadores CIBIT:
 [Inês Almeida](https://orcid.org/0000-0003-0230-3075) e [Miguel Castelo-Branco](https://orcid.org/0000-0003-4364-6373)
 
