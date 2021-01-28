@@ -123,6 +123,8 @@
 | [Ilusões Ópticas - A Pós Imagem](activity2/poster/Grupo1-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
 | [A Cor e o Cérebro](activity2/poster/Grupo2-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
 
+---
+
 ## Coordenadores CIBIT:
 [Inês Almeida](https://orcid.org/0000-0003-0230-3075) e [Miguel Castelo-Branco](https://orcid.org/0000-0003-4364-6373)
 
@@ -134,6 +136,5 @@ Alberto Barreira, Henrique Cruz e [Cilínia Godinho](https://www.linkedin.com/in
 [Carolina Travassos](https://orcid.org/0000-0002-8555-9844), [Diana Rodrigues](https://orcid.org/0000-0002-6755-2841), [Fátima Machado](https://orcid.org/0000-0001-8878-1750), [Helena Jorge](https://orcid.org/0000-0003-1745-6891), [Hugo Alexandre](https://orcid.org/0000-0001-9504-6543), [Marta Pais](https://orcid.org/0000-0001-8593-0810), [Marta Teixeira](https://orcid.org/0000-0003-3647-6767), [Ricardo Martins](http://orcid.org/0000-0001-7184-185X), [Sara Santos](https://orcid.org/0000-0002-7594-4765)
 
 
----
 ## Apoios Institucionais
 ![logos](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/logos.png)
