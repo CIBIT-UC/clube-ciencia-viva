@@ -5,11 +5,19 @@
 
 ## Atividade 1: O Método Científico
 
-| Temas Gerais| Sessão | 
-| - | - | 
-| VER E MEXER NO CÉREBRO POR <br> DENTRO E POR FORA | [Sessão 1](#sessão-1): Introdução <br> [Sessão 2](#sessão-2): Cérebro |
-| TÉCNICAS DE RECOLHA DE DADOS | [Sessão 3](#sessão-3): Comportamento <br> [Sessão 4](#sessão-4): Electroencefalografia <br> [Sessão 5](#sessão-5): Imagem Cerebral por Ressonância Magnética <br> [Sessão 6](#sessão-6): Condutância da Pele e Eye Tracker|
-|E SE EU FOSSE INVESTIGADOR? <br>O PROCESSO DE INVESTIGAÇÃO EM AÇÃO!| [Sessão 7](#sessão-7): Introdução ao Projecto de Investigação: Questão e grupos de trabalho <br>  [Sessão 8](#sessão-8): Projecto de Investigação: Planificação e desenho experimental <br> [Sessão 9](#sessão-9): Como obter dados em tempos de pandemia COVID-19? <br> [Sessão 10](#sessão-10): Análise de dados <br> [Sessão 11](#sessão-11): Partilha de Dados & Revisão pelos pares|
+| Sessão | Título |
+| - | --- |
+| [Sessão 1](#sessão-1) | Introdução |
+| [Sessão 2](#sessão-2)| Cérebro |
+| [Sessão 3](#sessão-3)| Comportamento |
+| [Sessão 4](#sessão-4) | Electroencefalografia |
+| [Sessão 5](#sessão-5) | Imagem Cerebral por Ressonância Magnética |
+| [Sessão 6](#sessão-6) | Condutância da Pele e Eye Tracker |
+| [Sessão 7](#sessão-7) | Introdução ao Projecto de Investigação: Questão e grupos de trabalho |
+| [Sessão 8](#sessão-8) | Projecto de Investigação: Planificação e desenho experimental|
+| [Sessão 9](#sessão-9) | Como obter dados em tempos de pandemia COVID-19? |
+| [Sessão 10](#sessão-10) | Análise de dados |
+| [Sessão 11](#sessão-11) | Partilha de Dados & Revisão pelos pares |
 
 
 ## Atividade 2: Os Mistérios da Luz e da Cor
