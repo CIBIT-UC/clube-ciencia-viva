@@ -39,7 +39,7 @@
 | Sessão 1 | Introdução - Cor e Contraste |
 | Sessão 2 |Como Medimos a Cor e a Luz? (Instrumentos e Técnicas) |
 | Sessão 3 |Como se avalia a Visão da Cores? |
-| [Sessão 4](#sessão-4-1) | Como medimos a Côr no Cérebro? |
+| [Sessão 4](#sessão-4-1) | Como medimos a Cor no Cérebro? |
 | Sessão 5 | Vamos descobrir se alguém é Daltónico! |
 | [Sessão 6](#sessão-6-1) | Ilusões Ópticas - Retoma |
 | Sessão 7 | Ilusões Ópticas - Preparção de Poster |
@@ -47,7 +47,7 @@
 
 ---
 
-![capa A2](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/materials.jpg)
+![materiais 01](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/materials01.jpg)
 
 ## Material de Apoio - Atividade 1
 
@@ -104,8 +104,9 @@
 > [Questionário](activity1/form/Actividade%201_questionário_geral.pdf)
 
 
+---
 
-
+![materiais 02](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/materials02.jpg)
 
 ## Material de Apoio - Atividade 2
 
