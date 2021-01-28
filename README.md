@@ -3,6 +3,7 @@
 ## Colaboradores
 [Inês Almeida](https://orcid.org/0000-0003-0230-3075), [Carolina Travassos](https://orcid.org/0000-0002-8555-9844), [Diana Rodrigues](https://orcid.org/0000-0002-6755-2841), [Fátima Machado](https://orcid.org/0000-0001-8878-1750), [Helena Jorge](https://orcid.org/0000-0003-1745-6891), [Hugo Alexandre](https://orcid.org/0000-0001-9504-6543), [Marta Pais](https://orcid.org/0000-0001-8593-0810), [Marta Teixeira](https://orcid.org/0000-0003-3647-6767), [Ricardo Martins](http://orcid.org/0000-0001-7184-185X), [Sara Santos](https://orcid.org/0000-0002-7594-4765), [Miguel Castelo-Branco](https://orcid.org/0000-0003-4364-6373)
 
+---
 
 ![capa A1](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/a1.jpg)
 
@@ -31,6 +32,7 @@
 | [Sessão 10](#sessão-10) | Análise de dados |
 | [Sessão 11](#sessão-11) | Partilha de Dados & Revisão pelos pares |
 
+---
 
 ![capa A2](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/a2.jpg)
 
@@ -46,6 +48,7 @@
 | Sessão 7 | Ilusões Ópticas - Preparção de Poster |
 | [Sessão 8](#sessão-8-1) | Ilusões  - Apresentação dos Posters e encerramento|
 
+---
 
 ![capa A2](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/mat_apoio.jpg)
 
@@ -124,6 +127,6 @@
 | [A Cor e o Cérebro](activity2/poster/Grupo2-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
 
 
-
+---
 ## Apoios Institucionais
 ![logos](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/logos.png)
