@@ -32,7 +32,7 @@
 | [Sessão 11](#sessão-11) | Partilha de Dados & Revisão pelos pares |
 
 
-![capa A1](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/a2.jpg)
+![capa A2](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/a2.jpg)
 
 ## Atividade 2: Os Mistérios da Luz e da Cor
 | Sessão | Título |
@@ -46,6 +46,8 @@
 | Sessão 7 | Ilusões Ópticas - Preparção de Poster |
 | [Sessão 8](#sessão-8-1) | Ilusões  - Apresentação dos Posters e encerramento|
 
+
+![capa A2](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/mat_apoio.jpg)
 
 ## Material de Apoio - Atividade 1
 
