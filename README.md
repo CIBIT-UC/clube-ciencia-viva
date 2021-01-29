@@ -134,12 +134,12 @@ O Centro de Imagem Biomédica e Investigação Translacional (CIBIT), unidade de
 ## Coordenadores do Clube
 CIBIT: [Inês Almeida](https://orcid.org/0000-0003-0230-3075) e [Miguel Castelo-Branco](https://orcid.org/0000-0003-4364-6373)
 
-Escola Martim de Freitas: Alberto Barreira, Henrique Cruz e [Cilínia Godinho](https://www.linkedin.com/in/cil%C3%ADnia-godinho-b355b454/?originalSubdomain=pt)
+Escola Martim de Freitas: Alberto Barreira, [Cilínia Godinho](https://www.linkedin.com/in/cil%C3%ADnia-godinho-b355b454/?originalSubdomain=pt) e Henrique Cruz 
 
 ## Colaboradores
-[Carolina Travassos](https://orcid.org/0000-0002-8555-9844), [Diana Rodrigues](https://orcid.org/0000-0002-6755-2841), [Fátima Machado](https://orcid.org/0000-0001-8878-1750), [Helena Jorge](https://orcid.org/0000-0003-1745-6891), [Hugo Alexandre](https://orcid.org/0000-0001-9504-6543), [Marta Pais](https://orcid.org/0000-0001-8593-0810), [Marta Teixeira](https://orcid.org/0000-0003-3647-6767), [Ricardo Martins](http://orcid.org/0000-0001-7184-185X), [Sara Santos](https://orcid.org/0000-0002-7594-4765)
+[Carolina Travassos](https://orcid.org/0000-0002-8555-9844), [Diana Rodrigues](https://orcid.org/0000-0002-6755-2841), [Fátima Machado](https://orcid.org/0000-0001-8878-1750), [Helena Jorge](https://orcid.org/0000-0003-1745-6891), [Hugo Alexandre](https://orcid.org/0000-0001-9504-6543), [Marta Pais](https://orcid.org/0000-0001-8593-0810), [Marta Teixeira](https://orcid.org/0000-0003-3647-6767), [Ricardo Martins](http://orcid.org/0000-0001-7184-185X) e [Sara Santos](https://orcid.org/0000-0002-7594-4765)
 
-## Suporte
+## Agradecimentos
 [Catarina Duarte](https://orcid.org/0000-0002-5620-2424), [Hélio Gonçalves](https://orcid.org/0000-0001-6471-7818), [João Castelhano](https://orcid.org/0000-0002-8996-1515), [Sónia Afonso](https://www.researchgate.net/profile/Sonia_Afonso2), Tânia Lopes
 
 ## Apoios Institucionais
