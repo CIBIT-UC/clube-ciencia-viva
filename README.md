@@ -127,6 +127,10 @@ O Centro de Imagem Biomédica e Investigação Translacional (CIBIT), unidade de
 | [Ilusões Ópticas - A Pós Imagem](activity2/poster/Grupo1-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
 | [A Cor e o Cérebro](activity2/poster/Grupo2-POSTER-sessions9-to-11-EMartimFreitas_POCH.pdf) |
 
+## Reportagem
+[![reportagem](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/reportagem.png)](https://streamable.com/e4c8ib)
+
+
 ---
 ![parceiros](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/partners.png)
 
