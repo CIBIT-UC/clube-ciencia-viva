@@ -1,8 +1,7 @@
 [![capa](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/capa.png)](https://streamable.com/e4c8ib)
 
 
-
-O Centro de Imagem Biomédica e Investigação Translacional (CIBIT), unidade de I&D da Universidade de Coimbra sediada no Instituto de Ciências Nucleares Aplicadas à saúde (ICNAS), foi parceiro do Agrupamento de Escolas Martim de Freitas, tendo contribuído significativamente para um Clube de Ciência Viva na Escola no ano letivo de 2019/20 (com extensão a 2020/21, por motivos de pandemia), iniciativa da Direção-Geral da Educação e financiado pelo POCH. Os investigadores do CIBIT desenvolveram duas atividades: “O Método Científico” e “Os Mistérios da Luz e da Imagem” num total de 20 sessões. 
+O Centro de Imagem Biomédica e Investigação Translacional (CIBIT), unidade de I&D da Universidade de Coimbra sediada no Instituto de Ciências Nucleares Aplicadas à saúde (ICNAS), foi parceiro do Agrupamento de Escolas Martim de Freitas, tendo contribuído significativamente para um Clube de Ciência Viva na Escola no ano letivo de 2019/20 (com extensão a 2020/21, por motivos de pandemia), iniciativa da Direção-Geral da Educação e financiado pelo POCH. Os investigadores do CIBIT desenvolveram duas atividades: “O Método Científico” e “Os Mistérios da Luz e da Imagem” num total de 20 sessões. A reportagem sobre o clube pode ser vista [aqui](https://streamable.com/fv0ukp).
 
 ---
 
